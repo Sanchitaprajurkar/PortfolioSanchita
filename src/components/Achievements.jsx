@@ -45,6 +45,15 @@ const Achievements = () => {
       linkedin:
         "https://www.linkedin.com/posts/sanchita-rajurkar-840180297_innovation-entrepreneurship-startupjourney-activity-7308514628098039808-3-t7?utm_medium=ios_app&rcm=ACoAAEfACLABJSLnU9EAgZ3Oz95T7kdPcxROKUs&utm_source=social_share_send&utm_campaign=copy_link",
     },
+    {
+      id: 5,
+      title: "Volunteering",
+      type: "Professional Development",
+      icon: <FaCertificate className="text-red-600 text-4xl" />,
+      image: FounderImage,
+      linkedin:
+       "https://www.linkedin.com/posts/sanchita-rajurkar-840180297_education-aiineducation-worldeducationfair-activity-7312514621423120385-LJqn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfACLABJSLnU9EAgZ3Oz95T7kdPcxROKUs",
+    },
   ];
 
   const certifications = [
